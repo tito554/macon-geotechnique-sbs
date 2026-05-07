@@ -1,0 +1,52 @@
+# Geotechnique — Mâcon
+
+> Geotechnical engineering services in Mâcon, France.
+
+## Services
+- [Amelioration Sols](https://macon.geotechnique.sbs/amelioration-sols/)
+- [Ancrages](https://macon.geotechnique.sbs/ancrages/)
+- [Cbr Routier](https://macon.geotechnique.sbs/cbr-routier/)
+- [Chaussee Rigide](https://macon.geotechnique.sbs/chaussee-rigide/)
+- [Chaussee Souple](https://macon.geotechnique.sbs/chaussee-souple/)
+- [Colonnes Ballastees](https://macon.geotechnique.sbs/colonnes-ballastees/)
+- [Confidentialite](https://macon.geotechnique.sbs/confidentialite/)
+- [Densite Cone Sable](https://macon.geotechnique.sbs/densite-cone-sable/)
+- [Essai Cpt](https://macon.geotechnique.sbs/essai-cpt/)
+- [Essais Proctor](https://macon.geotechnique.sbs/essais-proctor/)
+- [Excavations](https://macon.geotechnique.sbs/excavations/)
+- [Excavations Profondes](https://macon.geotechnique.sbs/excavations-profondes/)
+- [Fondations](https://macon.geotechnique.sbs/fondations/)
+- [Geotechnique Routiere](https://macon.geotechnique.sbs/geotechnique-routiere/)
+- [Granulometrie](https://macon.geotechnique.sbs/granulometrie/)
+- [Injections](https://macon.geotechnique.sbs/injections/)
+- [Investigation](https://macon.geotechnique.sbs/investigation/)
+- [Isolation Sismique](https://macon.geotechnique.sbs/isolation-sismique/)
+- [Labo In Situ](https://macon.geotechnique.sbs/labo-in-situ/)
+- [Laboratoire](https://macon.geotechnique.sbs/laboratoire/)
+- [Limites Atterberg](https://macon.geotechnique.sbs/limites-atterberg/)
+- [Liquefaction](https://macon.geotechnique.sbs/liquefaction/)
+- [Masw](https://macon.geotechnique.sbs/masw/)
+- [Microzonage Sismique](https://macon.geotechnique.sbs/microzonage-sismique/)
+- [Murs Soutenement](https://macon.geotechnique.sbs/murs-soutenement/)
+- [Permeabilite In Situ](https://macon.geotechnique.sbs/permeabilite-in-situ/)
+- [Pieux](https://macon.geotechnique.sbs/pieux/)
+- [Puits Inspection](https://macon.geotechnique.sbs/puits-inspection/)
+- [Radiers](https://macon.geotechnique.sbs/radiers/)
+- [Refraction Sismique](https://macon.geotechnique.sbs/refraction-sismique/)
+- [Resistivite](https://macon.geotechnique.sbs/resistivite/)
+- [Semelles](https://macon.geotechnique.sbs/semelles/)
+- [Sismique](https://macon.geotechnique.sbs/sismique/)
+- [Sondages Spt](https://macon.geotechnique.sbs/sondages-spt/)
+- [Stabilite Talus](https://macon.geotechnique.sbs/stabilite-talus/)
+- [Surveillance Excavations](https://macon.geotechnique.sbs/surveillance-excavations/)
+- [Talus](https://macon.geotechnique.sbs/talus/)
+- [Triaxial](https://macon.geotechnique.sbs/triaxial/)
+- [Tunnels Sol Mou](https://macon.geotechnique.sbs/tunnels-sol-mou/)
+- [Vibrocompactage](https://macon.geotechnique.sbs/vibrocompactage/)
+
+## Contact
+- Website: https://macon.geotechnique.sbs/
+
+## About
+This site provides geotechnical engineering services in Mâcon, France.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
