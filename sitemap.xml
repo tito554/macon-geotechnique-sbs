@@ -2,200 +2,248 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap-0.9">
   <url>
     <loc>https://macon.geotechnique.sbs/</loc>
-    <lastmod>2026-02-27</lastmod>
-    <changefreq>daily</changefreq>
+    <lastmod>2026-03-28</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://macon.geotechnique.sbs/chaussee-souple</loc>
-    <lastmod>2026-04-01</lastmod>
+    <loc>https://macon.geotechnique.sbs/amelioration-sols/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://macon.geotechnique.sbs/triaxial</loc>
-    <lastmod>2026-03-11</lastmod>
+    <loc>https://macon.geotechnique.sbs/ancrages/</loc>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://macon.geotechnique.sbs/chaussee-rigide</loc>
-    <lastmod>2026-03-15</lastmod>
+    <loc>https://macon.geotechnique.sbs/cbr-routier/</loc>
+    <lastmod>2026-05-15</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://macon.geotechnique.sbs/microzonage-sismique</loc>
-    <lastmod>2026-03-28</lastmod>
+    <loc>https://macon.geotechnique.sbs/chaussee-rigide/</loc>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://macon.geotechnique.sbs/injections</loc>
-    <lastmod>2026-03-28</lastmod>
+    <loc>https://macon.geotechnique.sbs/chaussee-souple/</loc>
+    <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://macon.geotechnique.sbs/isolation-sismique</loc>
-    <lastmod>2026-03-14</lastmod>
+    <loc>https://macon.geotechnique.sbs/colonnes-ballastees/</loc>
+    <lastmod>2026-04-05</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://macon.geotechnique.sbs/limites-atterberg</loc>
-    <lastmod>2026-04-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://macon.geotechnique.sbs/resistivite</loc>
-    <lastmod>2026-03-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://macon.geotechnique.sbs/stabilite-talus</loc>
-    <lastmod>2026-02-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://macon.geotechnique.sbs/cbr-routier</loc>
-    <lastmod>2026-04-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://macon.geotechnique.sbs/densite-cone-sable</loc>
-    <lastmod>2026-03-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://macon.geotechnique.sbs/sondages-spt</loc>
-    <lastmod>2026-03-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://macon.geotechnique.sbs/essais-proctor</loc>
-    <lastmod>2026-03-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://macon.geotechnique.sbs/murs-soutenement</loc>
-    <lastmod>2026-04-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://macon.geotechnique.sbs/semelles</loc>
-    <lastmod>2026-04-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://macon.geotechnique.sbs/ancrages</loc>
+    <loc>https://macon.geotechnique.sbs/densite-cone-sable/</loc>
     <lastmod>2026-03-22</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://macon.geotechnique.sbs/radiers</loc>
-    <lastmod>2026-03-11</lastmod>
+    <loc>https://macon.geotechnique.sbs/essai-cpt/</loc>
+    <lastmod>2026-03-31</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://macon.geotechnique.sbs/surveillance-excavations</loc>
-    <lastmod>2026-03-05</lastmod>
+    <loc>https://macon.geotechnique.sbs/essais-proctor/</loc>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://macon.geotechnique.sbs/tunnels-sol-mou</loc>
-    <lastmod>2026-04-19</lastmod>
+    <loc>https://macon.geotechnique.sbs/excavations/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://macon.geotechnique.sbs/excavations-profondes</loc>
-    <lastmod>2026-04-06</lastmod>
+    <loc>https://macon.geotechnique.sbs/excavations-profondes/</loc>
+    <lastmod>2026-05-14</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://macon.geotechnique.sbs/puits-inspection</loc>
-    <lastmod>2026-04-11</lastmod>
+    <loc>https://macon.geotechnique.sbs/fondations/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://macon.geotechnique.sbs/essai-cpt</loc>
-    <lastmod>2026-03-29</lastmod>
+    <loc>https://macon.geotechnique.sbs/geotechnique-routiere/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://macon.geotechnique.sbs/liquefaction</loc>
-    <lastmod>2026-02-26</lastmod>
+    <loc>https://macon.geotechnique.sbs/granulometrie/</loc>
+    <lastmod>2026-04-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://macon.geotechnique.sbs/permeabilite-in-situ</loc>
+    <loc>https://macon.geotechnique.sbs/injections/</loc>
     <lastmod>2026-03-26</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://macon.geotechnique.sbs/masw</loc>
+    <loc>https://macon.geotechnique.sbs/investigation/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://macon.geotechnique.sbs/isolation-sismique/</loc>
+    <lastmod>2026-05-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://macon.geotechnique.sbs/labo-in-situ/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://macon.geotechnique.sbs/laboratoire/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://macon.geotechnique.sbs/limites-atterberg/</loc>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://macon.geotechnique.sbs/liquefaction/</loc>
+    <lastmod>2026-05-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://macon.geotechnique.sbs/masw/</loc>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://macon.geotechnique.sbs/microzonage-sismique/</loc>
+    <lastmod>2026-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://macon.geotechnique.sbs/murs-soutenement/</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://macon.geotechnique.sbs/permeabilite-in-situ/</loc>
     <lastmod>2026-04-06</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://macon.geotechnique.sbs/refraction-sismique</loc>
-    <lastmod>2026-03-13</lastmod>
+    <loc>https://macon.geotechnique.sbs/pieux/</loc>
+    <lastmod>2026-04-24</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://macon.geotechnique.sbs/contact</loc>
-    <lastmod>2026-03-16</lastmod>
+    <loc>https://macon.geotechnique.sbs/puits-inspection/</loc>
+    <lastmod>2026-04-02</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://macon.geotechnique.sbs/radiers/</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://macon.geotechnique.sbs/refraction-sismique/</loc>
+    <lastmod>2026-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://macon.geotechnique.sbs/resistivite/</loc>
+    <lastmod>2026-05-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://macon.geotechnique.sbs/semelles/</loc>
+    <lastmod>2026-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://macon.geotechnique.sbs/sismique/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://macon.geotechnique.sbs/sitemap/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://macon.geotechnique.sbs/vibrocompactage</loc>
-    <lastmod>2026-03-28</lastmod>
+    <loc>https://macon.geotechnique.sbs/sondages-spt/</loc>
+    <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://macon.geotechnique.sbs/granulometrie</loc>
-    <lastmod>2026-03-31</lastmod>
+    <loc>https://macon.geotechnique.sbs/stabilite-talus/</loc>
+    <lastmod>2026-05-13</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://macon.geotechnique.sbs/pieux</loc>
-    <lastmod>2026-02-25</lastmod>
+    <loc>https://macon.geotechnique.sbs/surveillance-excavations/</loc>
+    <lastmod>2026-04-10</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://macon.geotechnique.sbs/colonnes-ballastees</loc>
-    <lastmod>2026-02-28</lastmod>
+    <loc>https://macon.geotechnique.sbs/talus/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://macon.geotechnique.sbs/confidentialite</loc>
-    <lastmod>2026-03-15</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.3</priority>
+    <loc>https://macon.geotechnique.sbs/triaxial/</loc>
+    <lastmod>2026-05-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://macon.geotechnique.sbs/tunnels-sol-mou/</loc>
+    <lastmod>2026-04-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://macon.geotechnique.sbs/vibrocompactage/</loc>
+    <lastmod>2026-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>
